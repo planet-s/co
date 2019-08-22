@@ -9,7 +9,7 @@
       "request": "launch",
       "name": "Widgets",
       "program": "${workspaceFolder}/target/debug/cargo-orbtk",
-      "cwd": "${workspaceFolder}",
+      "cwd": "${workspaceFolder}/target/debug",
       "preLaunchTask": "build",
       "sourceLanguages": [
         "rust"
